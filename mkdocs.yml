@@ -1,0 +1,32 @@
+site_name: Diego Brabo | CV
+site_url: https://diegobrabo.github.io/brabo/
+site_description: CV de Diego Augusto dos Santos Brabo
+docs_dir: docs
+
+theme:
+  name: material
+  language: en
+  font: false
+  palette:
+    - scheme: default
+      primary: blue grey
+      accent: cyan
+  features:
+    - navigation.top
+
+nav:
+  - English: index.md
+  - Português (Brasil): pt-br/index.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/site.js
