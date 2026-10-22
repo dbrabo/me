@@ -2,7 +2,7 @@
 
 The CV is available in English and Brazilian Portuguese, with a light/dark theme
 switch, and will be published with MkDocs Material at
-[diegobrabo.github.io/brabo](https://diegobrabo.github.io/brabo/) after GitHub
+[dbrabo.github.io/me](https://dbrabo.github.io/me/) after GitHub
 Pages is enabled for this repository.
 
 To preview it locally:
